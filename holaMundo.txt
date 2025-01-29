@@ -2,3 +2,7 @@ hola mundo
 int pepe = 0;
 
 mas cambios en el fichero
+
+Usuario user = new Usuario("Manolo");
+
+String coche = golf;
