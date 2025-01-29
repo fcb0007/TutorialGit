@@ -6,3 +6,5 @@ mas cambios en el fichero
 Usuario user = new Usuario("Manolo");
 
 String coche = golf;
+
+ya estamos acabando
